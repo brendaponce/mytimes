@@ -1,0 +1,23 @@
+header {
+  display: flex;
+  font-family: verdana;
+  font-style: 14px;
+  font-weight: bold;
+  justify-content: flex-end;
+  border: 1px solid black;
+  align-items: center;
+}
+
+nav span {
+  display: inline-block;
+  margin: 0 10px;
+ }
+
+ nav span a:link {
+   color: black;
+ }
+
+header .logo {
+  margin-right: auto;
+  color: MediumAquamarine;
+}
